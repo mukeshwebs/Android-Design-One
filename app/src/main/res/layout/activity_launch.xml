@@ -10,7 +10,7 @@
         android:layout_height="match_parent"
         android:background="@drawable/splash_background"
         android:visibility="visible"
-        tools:context=".LaunchActivity">
+        tools:context=".ui.launch.LaunchActivity">
 
 
         <ImageView

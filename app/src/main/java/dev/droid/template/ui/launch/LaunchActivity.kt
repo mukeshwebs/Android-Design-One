@@ -1,4 +1,4 @@
-package dev.droid.template
+package dev.droid.template.ui.launch
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,7 +7,9 @@ import android.os.Looper
 import android.view.animation.AnimationUtils
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
+import dev.droid.template.R
 import dev.droid.template.databinding.ActivityLaunchBinding
+import dev.droid.template.ui.welcome.WelcomeActivity
 
 class LaunchActivity : AppCompatActivity() {
     private lateinit var binding : ActivityLaunchBinding

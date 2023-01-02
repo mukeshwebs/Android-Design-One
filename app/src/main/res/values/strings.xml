@@ -24,4 +24,22 @@
     <string name="please_enter_valid_email_address">Please Enter Valid Email Address</string>
     <string name="please_enter_password">Please Enter Password</string>
     <string name="please_enter_name">Please Enter Name</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">John</string>
+    <string name="nav_header_subtitle">john@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_about_us">About Us</string>
+    <string name="menu_plans">Plans</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="menu_logout">Logout</string>
+    <string name="john">John</string>
+    <string name="john_gmail_com">john@gmail.com</string>
 </resources>
